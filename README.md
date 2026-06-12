@@ -63,6 +63,10 @@ lo que requiere la cuenta SYSTEM de Windows. PsExec se usa únicamente para esta
 - **Modificado por** [xd-Programmer-IA](https://github.com/xd-Programmer-IA/AsusFanControl)
 - **Creado originalmente por** [Karmel0x](https://github.com/Karmel0x)
 
+Imagen referencia:
+<img width="467" height="700" alt="Captura de pantalla 2026-06-11 234847" src="https://github.com/user-attachments/assets/d9bfb2c6-ec20-48c8-a9d4-5d8711c265a0" />
+
+
 ## Licencia
 
 Este proyecto es de uso personal. `AsusWinIO64.dll` es propiedad de ASUS y
