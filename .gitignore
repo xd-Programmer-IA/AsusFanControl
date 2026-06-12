@@ -1,0 +1,24 @@
+# PyInstaller build artifacts
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# Compiled installer output (se regenera con ISCC)
+dist/ASUS_FanControl_Setup*.exe
+dist/AsusFanControlV2_old.exe
+
+# Build / signing scripts internos
+build.bat
+do_sign.ps1
+sign_and_build.ps1
+sign_log.txt
+sign_result.txt
+
+# Config específico de cada máquina (generado por register_task.ps1)
+dist/python_path.txt
+python_path.txt
+
+# Logs de la app
+debug.log
