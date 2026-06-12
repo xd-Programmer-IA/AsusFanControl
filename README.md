@@ -25,7 +25,7 @@ Control avanzado de velocidad de ventiladores para laptops ASUS desde Windows.
 
 ### Opción A — Instalador (recomendado)
 
-1. Descarga `ASUS_FanControl_Setup_v2.0.0.exe` desde blob:https://github.com/7a24bf82-af17-4a4e-958e-92642fcf3ea0
+1. Descarga `ASUS_FanControl_Setup_v2.0.0.exe` 
 
 2. Ejecuta el instalador (pide UAC una sola vez)
 3. El instalador:
